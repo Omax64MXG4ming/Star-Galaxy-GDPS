@@ -1,10 +1,10 @@
-<?php include("customEmbed1.php"); ?>
+<?php include("put here your custmonfile for adiccional text"); ?>
 
 
-<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 
 
-<body style="background-color:grey">
+
+<body style="background-color:your coloe">
   
 </body>
 
@@ -25,7 +25,7 @@
 
  <div class="popup" id="credits"> </div> <div style="position:absolute; bottom: -50%; left: 0%; width: 100%; pointer-events: none"> <img class="cornerPiece" src="browser/assets/corner.png" width=7%;> </div> <div style="position:absolute; bottom: -50%; right: 0%; width: 100%; text-align: right;"> <img class="cornerPiece" src="browser/assets/corner.png" width=7%; style="transform: scaleX(-1)"> </div>
 
-  <div class="browserIcon" style="position:absolute; top: 36.3%; left: 50%; text-align: left; width: 10%;"> <a href="/browser/"><img class="browserIcon" src="browser.png" width="70%"></a> </div>
+  <div class="yourtypeIcon" style="position:absolute; top: 36.3%; left: 50%; text-align: left; width: 10%;"> <a href="your page"><img class="browserIcon" src="browser.png" width="70%"></a> </div>
 
 
             <div class="supercenter center" id="menubuttons" style="bottom: 5%;"> <table> <tr class="menuButtonList">
@@ -34,7 +34,7 @@
 <div class="dashboardIcon" style="position:absolute; top: 36.5%; left: 42%; text-align: left; width: 10%;"> <a href="/dashboard/"><img class="dashboardIcon" src="dashboard.png" width="70%"></a> </div>
 
 
-<div class="discordIcon" style="position:absolute; top: 57%; left: 55%; text-align: left; width: 10%;"> <a href="https://discord.gg/7S3fwnuWeE"><img class="discordIcon" src="discord.png" width="70%"></a> </div>
+<div class="discordIcon" style="position:absolute; top: 57%; left: 55%; text-align: left; width: 10%;"> <a href="your discordlink"><img class="discordIcon" src="discord.png" width="70%"></a> </div>
 
 <div class="stargdpsIcon" style="position:absolute; top: 10%; left: 30%; text-align: left; width: 10%;"> <img class="stargdpsIcon" src="stargalaxygdps.png" width="400%"> </div> 
 
