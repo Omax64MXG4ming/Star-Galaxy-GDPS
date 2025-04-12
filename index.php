@@ -1,7 +1,7 @@
 <?php include("put here your custmonfile for adiccional text"); ?>
 
 
-
+ 
 
 
 <body style="background-color:your coloe">
