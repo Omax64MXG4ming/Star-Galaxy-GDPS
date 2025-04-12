@@ -45,10 +45,10 @@ and More!
 It would be a pleasure to join us.
 
 ***#Tools*** 
-Web Page ||all secured by cloudflare☁️||||here have a downloads||
-https://stargalaxy2.ps.fhgdps.com/
+Web Page ||all secured by cloudflare☁️
+[Page](https://stargalaxy2.ps.fhgdps.com/)
 
-GDPS Hub https://gdpshub.com/gdps/2923
+[GDPS Hub](https://gdpshub.com/gdps/2923)
 
 Android, PC and iOS
 new update 21/4/25
