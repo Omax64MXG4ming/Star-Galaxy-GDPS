@@ -1,5 +1,6 @@
 name: Laravel
-   steps:
+  
+ steps:
 - uses: actions/checkout@v2
 - name: Setup PHP
   uses: shivammathur/setup-php@v2
