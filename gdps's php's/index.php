@@ -3,7 +3,7 @@
 	include("_init_.php");
 
 ?>
-
+ 
 <head>
 	<?php include("customEmbed.php"); ?>
 	<meta charset="utf-8">
