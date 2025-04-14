@@ -14,7 +14,9 @@ jobs:
     steps:
     - uses: shivammathur/setup-php@15c43e89cdef867065b0213be354c2841860869e
       with:
-        php-version: '8.0'
+      
+    - root: composer.json requires lcobucci/jwt == 3.3.3.0 -> satisfiable by lcobucci/jwt[3.3.3].
+    - lcobucci/jwt 3.3.3 requires php ^5.6 || ^7.0 -> your php version (8.0.0) does not satisfy that requirement
     - uses: actions/checkout@v4
     - name: Copy .env
       run: php -r "file_exists('.env') || copy('.env.example', '.env');"
