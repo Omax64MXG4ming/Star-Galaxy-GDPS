@@ -4,3 +4,5 @@
 		<a href="https://stargalaxy2.ps.fhgdps.com">GDPS</a>
 	</h3>
 </p>
+	<p
+<a href="https://stargalaxy2.ps.fhgdps.com/browser/">Browser</a> </p>
